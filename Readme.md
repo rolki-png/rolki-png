@@ -54,10 +54,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=raverecursion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rolki-png&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=raverecursion&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rolki-png&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
     </td>
   </tr>
 </table>
