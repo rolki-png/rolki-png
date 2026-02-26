@@ -6,9 +6,9 @@
 
 Building performant web applications with modern tooling.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/rolki-png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:)
+[![Website](https://img.shields.io/badge/roland--kiraly.com-000000?style=flat&logo=vercel&logoColor=white)](https://www.roland-kiraly.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiralyroland/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white)](mailto:fail0verflowf9@gmail.com)
 
 ---
 
