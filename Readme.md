@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer**
 
-Building performant web applications with modern tooling.
+Building scalable web applications with React, TypeScript, and Node.js.
 
 [![Website](https://img.shields.io/badge/roland--kiraly.com-000000?style=flat&logo=vercel&logoColor=white)](https://www.roland-kiraly.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiralyroland/)
